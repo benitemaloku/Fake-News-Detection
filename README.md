@@ -1,10 +1,13 @@
 Fake News Detection
+
 This project is an intelligent system for detecting fake news using Machine Learning techniques. The system analyzes the text of news and classifies them as "true" or "fake" with high accuracy.
 
 Project Features
+
 The system cleans news text and uses TF-IDF for feature extraction. Multiple ML models are tested, with an average accuracy of 99% across all algorithms, providing reliable fake news detection with consistent high performance.
 
 Results
+
 The project achieved excellent results with four different algorithms:
 •	Logistic Regression: 98.5% Accuracy
 •	Decision Tree: 99.5% Accuracy
