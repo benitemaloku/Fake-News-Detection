@@ -42,7 +42,7 @@ The project uses two main datasets:
 
     •	Fake.csv - Fake News (23,481 rows)
 
-    •	True.csv - True news (21,417 rows)
+    •	True.csv - True News (21,417 rows)
 
 Link for the Data sets: https://drive.google.com/drive/u/0/folders/1d54S7oohq79beRgIlbYuESMA59RZHaTZ
 
