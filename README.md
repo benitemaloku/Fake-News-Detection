@@ -12,33 +12,33 @@ Results
 
 The project achieved excellent results with four different algorithms:
 
-•	Logistic Regression: 98.5% Accuracy
+    •	Logistic Regression: 98.5% Accuracy
 
-•	Decision Tree: 99.5% Accuracy
+    •	Decision Tree: 99.5% Accuracy
 
-•	Gradient Boosting: 99.5% Accuracy
+    •	Gradient Boosting: 99.5% Accuracy
 
-•	Random Forest: 98.6% Accuracy
+    •	Random Forest: 98.6% Accuracy
 
 
 Technologies Used
 
-•	Python - Programming Language
+    •	Python - Programming Language
 
-•	Pandas & NumPy - Data Manipulation
+    •	Pandas & NumPy - Data Manipulation
 
-•	Scikit-learn - Machine Learning Algorithms
+    •	Scikit-learn - Machine Learning Algorithms
 
-•	Matplotlib & Seaborn - Visualizations
+    •	Matplotlib & Seaborn - Visualizations
 
 
 Dataset Structure
 
 The project uses two main datasets:
 
-•	Fake.csv - Fake News (23,481 rows)
+    •	Fake.csv - Fake News (23,481 rows)
 
-•	True.csv - True news (21,417 rows)
+    •	True.csv - True news (21,417 rows)
 
 Link for the Data sets: https://drive.google.com/drive/u/0/folders/1d54S7oohq79beRgIlbYuESMA59RZHaTZ
 
